@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/khamer1410/nodejs_chat/issues"
   },
-  "homepage": "https://github.com/khamer1410/nodejs_chat#readme"
+  "homepage": "https://github.com/khamer1410/nodejs_chat#readme",
+  "dependencies": {
+    "socket.io": "^1.7.3",
+    "socket.io-client": "^1.7.3"
+  }
 }
