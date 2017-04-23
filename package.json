@@ -1,0 +1,24 @@
+{
+  "name": "node_chat",
+  "version": "1.0.0",
+  "description": "Chat in node js",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khamer1410/nodejs_chat.git"
+  },
+  "keywords": [
+    "chat",
+    "nodejs",
+    "socket.io"
+  ],
+  "author": "Krzysztof Hamerszmit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khamer1410/nodejs_chat/issues"
+  },
+  "homepage": "https://github.com/khamer1410/nodejs_chat#readme"
+}
